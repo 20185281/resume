@@ -18,4 +18,5 @@
 [google](http://www.google.com)  
 <http://www.hallym.ac.kr>
 
-![강아지](img.PNG)
+
+![강아지](C:\Users\Hallym\Desktop\corgi.jpg)
