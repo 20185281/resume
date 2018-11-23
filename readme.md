@@ -15,9 +15,11 @@
 -----------------------------------
 
 - ### 프로그램작성 가능 언어    
-- 파이썬(초급)  
+- Python(초급)  
   <img src="https://user-images.githubusercontent.com/45085490/48926969-c7308e80-ef15-11e8-9ace-229d5fa8d645.png">    
-- ㅈ
+- JavaScript(초급)
+  <img src="https://user-images.githubusercontent.com/45085490/48927411-00b6c900-ef19-11e8-946a-94fd67d2c2fe.png">
+- Java
 
   
   -----------------------------------
