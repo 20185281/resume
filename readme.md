@@ -1,6 +1,7 @@
 이력서
 ========
 >  이름 : **이태민**  
+>  생년월일 : 1999/12/02    
 > 학교 : 한림대학교  
 > 학과 : 소프트웨어융합대학   
 
@@ -20,4 +21,4 @@
 <http://www.hallym.ac.kr>
 
 
-![강아지](C:\Users\Hallym\Desktop\corgi.jpg)
+![](https://user-images.githubusercontent.com/45085490/48926407-217b2080-ef11-11e8-9657-594d6942ea5a.jpg)
