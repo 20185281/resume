@@ -14,9 +14,11 @@
 
 -----------------------------------
 
-- ### 프로그램작성 가능 언어  
-  <img src="https://user-images.githubusercontent.com/45085490/48926969-c7308e80-ef15-11e8-9ace-229d5fa8d645.png">     
-  - 파이썬(초급)  
+- ### 프로그램작성 가능 언어    
+- 파이썬(초급)  
+  <img src="https://user-images.githubusercontent.com/45085490/48926969-c7308e80-ef15-11e8-9ace-229d5fa8d645.png">    
+- ㅈ
+
   
   -----------------------------------
 
